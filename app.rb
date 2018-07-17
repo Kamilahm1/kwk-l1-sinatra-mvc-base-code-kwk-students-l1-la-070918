@@ -5,6 +5,6 @@ class App < Sinatra::Base
     "Hello, World"
   end
   get '/kamilah' do 
-    "hi im kamilah."
+    "hello im kamilah."
 end
 end
